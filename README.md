@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @heisenburgerr
+- 👋 Hi, I’m @Gokulan 
 <!--- 👀 I’m interested in ...--->
-- 🌱 I’m currently learning ... Data Science
+- 🌱 I’m currently a Data Science Graduate
 <!--- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me ... gokulan1612@gmail.com
 
